@@ -1,7 +1,3 @@
-Here’s a template for a GitHub README page about the Chartered Institute of Environmental Health (CIEH):
-
----
-
 # Chartered Institute of Environmental Health (CIEH)
 
 <img src="https://www.cieh.org/media/0wdcjqlc/cieh_logo.svg" alt="CIEH Logo" width="200"/>
